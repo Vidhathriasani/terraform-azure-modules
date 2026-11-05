@@ -1,0 +1,7 @@
+project     = "myapp"
+environment = "prod"
+location    = "eastus"
+
+# Sensitive values — pass via environment variables or CI secrets
+# sql_admin_login    = "sqladmin"
+# sql_admin_password = "use-a-strong-password"
